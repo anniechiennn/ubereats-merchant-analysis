@@ -1,5 +1,4 @@
-# ubereats-merchant-analysis
-Deciphering Key Influences on Restaurant Success within UberEats with Python Data Analysis  
+# Deciphering Key Influences on Restaurant Success within UberEats with Python Data Analysis  
 
 
 Team Members: Annie Chien, Han Nga Chan, Sahasra Konkala, Sofia Lopez Somohano, Saumya Anand, Jose Salerno
